@@ -76,7 +76,7 @@ Enable the mod from the game.
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/94975b71-db00-4f4c-a7e8-e23045ce25a1" height="280"/>
+<img src="https://github.com/user-attachments/assets/94975b71-db00-4f4c-a7e8-e23045ce25a1" height="330"/>
 
 ---
 
